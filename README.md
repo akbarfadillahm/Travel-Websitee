@@ -6,7 +6,7 @@ Website travel modern yang dibangun menggunakan **HTML**, **CSS**, dan **Bootstr
 
 ## 🚀 Demo
 
-> 🔗 [Lihat Website](https://akbarfadilahm.github.io/travel-website/)
+> 🔗 [Lihat Website](https://akbarfadillahm.github.io/Travel-Websitee/) 
 
 ---
 
